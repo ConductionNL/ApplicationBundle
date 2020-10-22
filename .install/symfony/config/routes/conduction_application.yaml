@@ -1,0 +1,3 @@
+conduction_application:
+  resource: "@ApplicationBundle/Resources/config/routes.yaml"
+  prefix: /
